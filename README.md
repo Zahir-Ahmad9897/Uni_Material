@@ -1,76 +1,61 @@
 <div align="center">
-  <a href="https://github.com/Zahir-Ahmad9897/Uni_Material">
-    <!-- Beautiful dynamic SVG banner -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Uni_Material&fontSize=80&fontAlignY=35&desc=My%20Academic%20Journey%20&%20Coursework&descAlignY=55&descAlign=60&animation=waving" />
-  </a>
 
-  <h3>🎓 Computer Software Engineering Academic Repository</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Uni_Material&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Academic%20Coursework%20Repository&descAlignY=58&descSize=20&descAlign=50&animation=fadeIn" width="100%" />
 
-  <p align="center">
-    A meticulously organized collection of my university coursework, spanning multiple disciplines in Software Engineering, Web Development, and Human-Computer Interaction.
-    <br />
-    <br />
-    <a href="https://github.com/Zahir-Ahmad9897/"><strong>Explore my profile »</strong></a>
-  </p>
+### 🎓 Zahir Ahmad — University Academic Hub
 
-  <div>
-    <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logoColor=white" alt="Status Active" />
-    <img src="https://img.shields.io/badge/Coursework-Academic-blue?style=for-the-badge&logoColor=white" alt="Coursework" />
-    <img src="https://img.shields.io/badge/Language-Multi-orange?style=for-the-badge&logoColor=white" alt="Language Multi" />
-  </div>
+<p>A structured, version-controlled archive of my university coursework across<br/>
+<strong>Web Engineering</strong>, <strong>Human-Computer Interaction</strong>, and more.</p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Zahir-Ahmad9897/Uni_Material?style=for-the-badge&color=302b63&labelColor=0f0c29)
+![GitHub repo size](https://img.shields.io/github/repo-size/Zahir-Ahmad9897/Uni_Material?style=for-the-badge&color=24243e&labelColor=302b63)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&labelColor=0f0c29)
+
 </div>
 
-<br />
+---
 
-> **“Education is not the learning of facts, but the training of the mind to think.”** — Albert Einstein
+## 📁 Repository Structure
 
-## 📂 Repository Architecture
-
-This repository serves as a centralized hub for tracking my academic progress, showcasing practical laboratory exercises, and preserving project source codes. The directories are structured chronologically and categorized by course.
-
-### 🌐 [Web Engineering Lab](./Web_Lab/)
-Comprehensive implementation of modern web-technologies bridging frontend constraints with logical backend solutions.  
-* **Highlights:** PHP Basics, Server-side handling, Control Structures, Arrays, and dynamic form integration.
-* *Technologies:* `HTML5`, `CSS3`, `PHP`
-
-### 💻 [Human-Computer Interaction (HCI)](./HCI_Practices/)
-Exploration into User Interface design paradigms, focusing on accessibility, cognitive psychology, and rapid prototyping.
-* **Highlights:** UI wireframing, UX heuristics, and interactive usability evaluations.
-* *Technologies:* `Figma`, `Prototyping`, `Design Systems`
+```
+Uni_Material/
+│
+├── 🌐 Web_Lab/          → PHP & Web Engineering Labs
+│   └── Lab_7/           → PHP Basics, Arrays, Forms, Control Structures
+│
+└── 🖥️ HCI_Practices/   → Human-Computer Interaction Coursework
+```
 
 ---
 
-## 🚀 Quick Navigation
+## 📚 Courses at a Glance
 
-| Course Map         | Description                                                            | Status     |
-| ------------------ | ---------------------------------------------------------------------- | ---------- |
-| **`Web_Lab/`**     | PHP form handling, dynamic HTML generation, and state management labs. | 🟢 Active |
-| **`HCI_Practices/`** | Core principles of User Experience and Interactive UI design.          | 🔵 Stable |
+| #  | Folder | Course | Focus | Status |
+|----|--------|--------|-------|--------|
+| 1 | [`Web_Lab/`](./Web_Lab/) | **Web Engineering Lab** | PHP, HTML, CSS, Forms, Server-side Logic | 🟢 Active |
+| 2 | [`HCI_Practices/`](./HCI_Practices/) | **Human-Computer Interaction** | UI/UX Design, Wireframes, Prototyping | 🔵 Ongoing |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies Used
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,github,vscode,figma&perline=9" alt="Tech Stack" />
-  </a>
-</p>
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/Zahir-Ahmad9897">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zahir-Ahmad9897&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Zahir's GitHub Stats" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,figma,git,github,vscode&perline=9" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Maintained with ❤️ by <b>Zahir Ahmad</b>.</i>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-	<a href="#"><img src="https://img.shields.io/badge/Scroll%20to%20Top-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zahir-Ahmad9897&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zahir-Ahmad9897&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="48%" />
 </p>
+
+---
+
+<div align="center">
+  <sub>Built with dedication by <strong>Zahir Ahmad</strong> · Staying consistent, one commit at a time.</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+</div>
