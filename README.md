@@ -21,7 +21,8 @@
 Uni_Material/
 │
 ├── 🌐 Web_Lab/          → PHP & Web Engineering Labs
-│   └── Lab_7/           → PHP Basics, Arrays, Forms, Control Structures
+│   ├── Lab_7/           → PHP Basics, Arrays, Forms, Control Structures
+│   └── Lab 10-11/       → React Basics, Components, Props, Lists
 │
 └── 🖥️ HCI_Practices/   → Human-Computer Interaction Coursework
 ```
@@ -32,7 +33,7 @@ Uni_Material/
 
 | #  | Folder | Course | Focus | Status |
 |----|--------|--------|-------|--------|
-| 1 | [`Web_Lab/`](./Web_Lab/) | **Web Engineering Lab** | PHP, HTML, CSS, Forms, Server-side Logic | 🟢 Active |
+| 1 | [`Web_Lab/`](./Web_Lab/) | **Web Engineering Lab** | PHP, React, Vite, CSS | 🟢 Active |
 | 2 | [`HCI_Practices/`](./HCI_Practices/) | **Human-Computer Interaction** | UI/UX Design, Wireframes, Prototyping | 🔵 Ongoing |
 
 ---
@@ -40,7 +41,7 @@ Uni_Material/
 ## 🛠️ Technologies Used
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,figma,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,php,mysql,figma,git,github,vscode&perline=11" />
 </p>
 
 ---

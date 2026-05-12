@@ -31,6 +31,16 @@
 | 09 | [`task_09.php`](./Lab_7/task_09.php) | String manipulation functions |
 | 10 | [`task_10.php`](./Lab_7/task_10.php) | Combined mini-project exercise |
 
+### ⚛️ [Lab 10-11 — React Fundamentals](./Lab_10-11/)
+> *Modern frontend development using React and Vite.*
+
+| Topic | Description |
+|-------|-------------|
+| Components | Functional components and Arrow functions |
+| Props | Data passing between components |
+| Rendering | Conditional rendering and List rendering |
+| Build | Modern build setup with Vite |
+
 ---
 
 ## ⚙️ How to Run
@@ -53,7 +63,7 @@ http://localhost:8000/task_01.php
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,php,html,css,vscode&perline=7" />
 </p>
 
 ---
